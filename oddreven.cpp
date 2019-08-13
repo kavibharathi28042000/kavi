@@ -4,13 +4,20 @@ int main()
 {
 int n;
 cin>>n;
+  if(n>0)
+  {
 if(n%2==0)
 {
 cout<<"even";
 }
-else 
+else  
 {
 cout<<"odd";
 }
+  }
+  else
+  {
+    cout<<"invalid";
+  }
 return 0;
 }
