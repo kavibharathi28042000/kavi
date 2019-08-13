@@ -3,19 +3,18 @@ using namespace std;
 int main()
 {
 int num;
-cout<<"enter a number";
 cin>>num;
 if(num>0)
 { 
-cout<<"the number is positive";
+cout<<" Positive";
 }
  else if(num<0)
 { 
-cout<<"the number is negative";
+cout<<"Negative";
 }
 else
 {
-cout<<"the number is zero";
+cout<<" Zero";
 }
 return 0;
 
