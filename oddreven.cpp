@@ -8,11 +8,11 @@ cin>>n;
   {
 if(n%2==0)
 {
-cout<<"even";
+cout<<"Even";
 }
 else  
 {
-cout<<"odd";
+cout<<"Odd";
 }
   }
   else
