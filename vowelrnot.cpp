@@ -9,7 +9,7 @@ int main()
  {
  if  (c=='a'||c=='e'||c=='i'||c=='o'||c=='u')
  {
- cout<<"vowel";
+ cout<<"Vowel";
  }
  else
  {
